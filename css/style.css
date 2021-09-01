@@ -1,6 +1,14 @@
 body,
 html {
 
+    margin: 1rem;
+    font-family: sans-serif;
+    line-height: 1.5;
+    color:#819FF7;
+    background-color:#c3e2ec;
+
+
+
 }
 
 
